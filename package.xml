@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+    <name>Emizen_Salesautoassign</name>
+    <version>1.0.0</version>
+    <stability>stable</stability>
+    <license uri="http://opensource.org/licenses/osl-3.0.php">OSL v3.0</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>If customer already registered and placing order as a guest it will save order into customer profile automatically</summary>
+    <description>If customer already registered and placing order as a guest it will save order into customer profile automatically</description>
+    <notes>If customer already registered and placing order as a guest it will save order into customer profile automatically</notes>
+    <authors><author><name>Emizen Tech Private Limited</name><user>emizen</user><email>info@emizentech.com</email></author></authors>
+    <date>2015-07-10</date>
+    <time>10:32:49</time>
+    <contents><target name="magelocal"><dir name="Emizen"><dir name="Salesautoassign"><dir><dir name="Helper"><file name="Data.php" hash="d11b659f9cd62539967093a7fed7a52d"/></dir><dir name="Model"><file name="Observer.php" hash="286b6ce55fa0d4b6837c2f49a70e0130"/></dir><dir name="etc"><file name="adminhtml.xml" hash="dd18a709f145bca4c5b8c11c05c3d0bc"/><file name="config.xml" hash="497d15c7c9c131b784a8f8192fd92851"/><file name="system.xml" hash="c69183e9ff2b85094cd6faf11958d2e4"/></dir></dir></dir></dir></target><target name="mageetc"><dir><dir name="modules"><file name="Emizen_Salesautoassign.xml" hash="8a1e8c48999ee6bbf76ef5cce556283a"/></dir></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.1.0</min><max>6.0.0</max></php></required></dependencies>
+</package>
