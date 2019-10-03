@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Emizen_Salesautoassign",
+    "name": "OpenMageModuleFostering\/Emizen_Salesautoassign",
     "type": "magento-module",
     "license": "OSL-v3.0",
     "homepage": "",
     "description": "If customer already registered and placing order as a guest it will save order into customer profile automatically",
     "authors": [
-    {
-        "name": "Emizen Tech Private Limited",
-        "email": "info@emizentech.com"
-    }
-],
+        {
+            "name": "Emizen Tech Private Limited",
+            "email": "info@emizentech.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
