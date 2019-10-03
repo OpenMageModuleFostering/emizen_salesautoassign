@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Emizen_Salesautoassign",
+    "name": "openmage-module-fostering\/emizen_salesautoassign",
     "type": "magento-module",
-    "license": "OSL-v3.0",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "If customer already registered and placing order as a guest it will save order into customer profile automatically",
     "authors": [
